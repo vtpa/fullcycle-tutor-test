@@ -139,7 +139,7 @@ O Docker deve levantar back-end, front-end, banco de dados.
 
 ## Vídeo-aula
 
-Você deverá gravar 4 aulas, cada aula não deve passar de 15 min. Aulas deverão ser gravadas com a utilização de câmera.
+Você deverá gravar 4 aulas, cada aula não deve passar de 25 min. Aulas deverão ser gravadas com a utilização de câmera.
 
 Duas aulas deverão ser codificando alguma parte do sistema (de sua escolha) no ato da aula. 
 

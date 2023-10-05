@@ -3,7 +3,7 @@
 
 ### Tecnologias utilizadas
  - NodeJS
- - Fastfy
+ - Fastify
  - Knex (MySQL e SQLite)
  - Zod
  - Vitest e Supertest
